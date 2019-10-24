@@ -945,6 +945,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
   display: inline-grid;
   grid-template-columns: auto auto auto;
   margin-left: 0;
+  width: 100%;
  }
 
  .skills > li > img {
